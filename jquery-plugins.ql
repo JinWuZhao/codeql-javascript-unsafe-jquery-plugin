@@ -1,3 +1,3 @@
 import javascript
 
-select jquery().getAPropertyRead("fn").getAPropertySource().getAFunctionValue()
+select jquery().getAPropertyRead("fn").getAPropertySource()
